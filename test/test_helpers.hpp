@@ -3,6 +3,7 @@
 #include <ctime>
 #include <filesystem>
 #include <fstream>
+#include <iostream>
 #include <iomanip>
 #include <ss/common.hpp>
 #include <ss/setup.hpp>
